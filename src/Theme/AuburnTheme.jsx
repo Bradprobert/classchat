@@ -1,0 +1,36 @@
+/* For use in material-ui/src/styles/colors.js */
+export const orange = {
+    50: '#fbebe2',
+    100: '#f5ccb6',
+    200: '#eeaa86',
+    300: '#e78855',
+    400: '#e26f30',
+    500: '#dd550c',
+    600: '#d94e0a',
+    700: '#d44408',
+    800: '#cf3b06',
+    900: '#c72a03',
+    A100: '#fff1ef',
+    A200: '#ffc6bc',
+    A400: '#ff9a89',
+    A700: '#ff846f',
+    'contrastDefaultColor': 'light',
+};
+
+export const blue = {
+    50: '#e1e5ea',
+    100: '#b3bdca',
+    200: '#8192a6',
+    300: '#4f6682',
+    400: '#294568',
+    500: '#03244d',
+    600: '#032046',
+    700: '#021b3d',
+    800: '#021634',
+    900: '#010d25',
+    A100: '#6083ff',
+    A200: '#2d5bff',
+    A400: '#0036f9',
+    A700: '#0031e0',
+    'contrastDefaultColor': 'light',
+};
