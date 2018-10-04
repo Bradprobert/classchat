@@ -55,6 +55,7 @@ const styles = theme => ({
         overflow: 'auto',
         backgroundColor: theme.palette.background.default,
         width: '100%',
+        height: window.innerHeight - 64,
         marginTop: 64,
         [theme.breakpoints.up('md')]: {
             marginLeft: drawerWidth,
